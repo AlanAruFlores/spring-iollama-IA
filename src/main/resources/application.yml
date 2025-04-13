@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: SpringOllamaIAAndDocs
+  ai:
+    ollama:
+      base-url: http://localhost:11434
+      chat:
+        options:
+          model: llama3.2
+#Config para swagger
+springdoc:
+  api-docs:
+    path: /api-docs
