@@ -9,3 +9,11 @@ Spring Iollama es una aplicación web construida con Spring Boot que proporciona
 - 📦 Soporte para consultas asincrónicas
 - 🧪 Tests automatizados con JUnit
 - 🔒 Autenticación básica opcional
+- 
+## 🛠️ Tecnologías
+
+- Java 17+
+- Spring Boot 3.x
+- LLaMA API (local o remoto)
+- Maven o Gradle
+- Docker (opcional)
